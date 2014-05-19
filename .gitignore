@@ -1,8 +1,11 @@
-#############################################################
-## Data downloaded and processed from Social Security website
+###################################################################
+## Data downloaded and processed 
 ## User should do this to ensure integrity of data
-#############################################################
+## Also COHA 1-grams are Academic License and cannot be shared here
+###################################################################
 data/
+archive/
+ignore/
 coha*.*
 eraseme*.*
 
