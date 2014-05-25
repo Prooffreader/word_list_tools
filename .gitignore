@@ -9,7 +9,7 @@ ignore/
 eraseme*.*
 *.png
 *ignore*.*
-*.pickle
+*user*.*
 
 #################
 ## Eclipse
