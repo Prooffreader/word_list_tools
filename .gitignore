@@ -11,6 +11,11 @@ eraseme*.*
 *ignore*.*
 *user*.*
 *.pickle
+data/
+*.psd
+archive/
+letter*/
+
 
 #################
 ## Eclipse
