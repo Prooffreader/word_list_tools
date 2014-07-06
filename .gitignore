@@ -12,6 +12,8 @@ eraseme*.*
 *user*.*
 *.pickle
 data/
+data/*.*
+letter_*/
 *.psd
 archive/
 letter*/
