@@ -17,6 +17,7 @@ letter_*/
 *.psd
 archive/
 letter*/
+*- Copy*
 
 
 #################
