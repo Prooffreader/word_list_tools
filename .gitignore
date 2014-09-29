@@ -4,7 +4,11 @@
 ## Also COHA 1-grams are Academic License and cannot be shared here
 ###################################################################
 coha_1*.*
-
+*ipynb_checkpoints*
+*.jpg
+*.png
+*.psd
+*coha_decades/*.pickle
 
 #################
 ## Eclipse
