@@ -4,7 +4,7 @@
 ## Also COHA 1-grams are Academic License and cannot be shared here
 ###################################################################
 coha_1*.*
-*ipynb_checkpoints*
+*checkpoint*
 *.jpg
 *.png
 *.psd
