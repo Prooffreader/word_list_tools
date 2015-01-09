@@ -9,6 +9,7 @@ coha_1*.*
 *.png
 *.psd
 *coha_decades/*.pickle
+*ignore*
 
 #################
 ## Eclipse
